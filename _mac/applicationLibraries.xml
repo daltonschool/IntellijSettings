@@ -1,8 +1,8 @@
 <application>
   <component name="libraryTable">
-    <library name="AssignmentTelemetry-snapshot010917">
+    <library name="AssignmentTelemetry">
       <CLASSES>
-        <root url="jar://$USER_HOME$/Dropbox/AssignmentTelemetry-snapshot010917.jar!/" />
+        <root url="jar://$USER_HOME$/IdeaProjects/AssignmentAnnotation/out/artifacts/AssignmentTelemetry/AssignmentTelemetry.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
