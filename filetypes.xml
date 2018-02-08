@@ -4,6 +4,7 @@
       <mapping pattern="sampledata" type="PLAIN_TEXT" />
       <mapping pattern="secretdata" type="PLAIN_TEXT" />
       <mapping pattern="testdata" type="PLAIN_TEXT" />
+      <mapping pattern="testdata-answers" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
