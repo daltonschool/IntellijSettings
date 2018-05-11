@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/daltonschool/CS2-trivia.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/daltonschool/CS1-finalproject2018.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
